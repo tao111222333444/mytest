@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="textColor">#202020</color>
+    <color name="textColorHint">#A0A0A0</color>
+    <color name="textColorVice">#6C6C6C</color>
+    <color name="lineColor">#D1B599</color>
+    <color name="btnColor">#ff6f4f</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textColor1">#f7f1e9</color>
+
+</resources>

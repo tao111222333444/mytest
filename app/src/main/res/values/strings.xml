@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyTest</string>
+
+
+    <!--产品详情-->
+    <string name="details_text_1">选择规格</string>
+    <string name="details_text_2">拿货价</string>
+    <string name="details_text_3">打包价</string>
+    <string name="details_text_4">全部已选</string>
+    <string name="details_text_5">开单数量</string>
+
+    <string name="details_text_6">尺寸</string>
+    <string name="details_text_7">库存</string>
+    <string name="details_text_8">开单数量</string>
+    <string name="details_text_9"></string>
+    <string name="details_text_add">加入进货</string>
+    <string name="details_text_cancel">取消</string>
+    <string name="details_text_number_1">1</string>
+    <string name="details_text_number_2">2</string>
+    <string name="details_text_number_3">3</string>
+    <string name="details_text_number_4">4</string>
+    <string name="details_text_number_5">5</string>
+    <string name="details_text_number_6">6</string>
+    <string name="details_text_number_7">7</string>
+    <string name="details_text_number_8">8</string>
+    <string name="details_text_number_9">9</string>
+    <string name="details_text_number_0">0</string>
+    <string name="details_text_number_clear">C</string>
+    <string name="details_text_number_delete">X</string>
+</resources>
